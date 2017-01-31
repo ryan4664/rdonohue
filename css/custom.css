@@ -1,0 +1,31 @@
+.profile-pic {
+    border-radius: 200px;
+}
+
+.navbar-custom {
+    background: #1C1D22;
+    font-weight: 200;
+    color: #f1f1f1;
+}
+
+header {
+    background: #324545;
+}
+
+footer .footer-above {
+    padding-top: 50px;
+    background-color: #312f2f;
+}
+
+footer .footer-below {
+    padding: 25px 0;
+    background-color: #1c1d22;
+}
+
+section {
+    padding: 70px 0;
+}
+
+header .intro-text .name {
+    font-weight: 100;
+}
